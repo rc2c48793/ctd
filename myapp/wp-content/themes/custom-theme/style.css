@@ -1,0 +1,21 @@
+/**
+ * Theme Name:        custom theme
+ * Theme URI:         https:/rahul.com
+ * Description:       Custom theme description
+ * Version:           1.0.0
+ * Author:            Rahul Bisht
+ * Author URI:        https://bisht.com
+ */
+
+
+ .custom-page-wrapper{
+    margin:50px;
+ }
+ .my-h-menu li a{
+    text-transform: uppercase;
+    color:white;
+    margin:0 10px;
+ }
+ .navbar {
+    margin-top:50px;
+ }

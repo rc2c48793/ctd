@@ -1,0 +1,30 @@
+/**
+ * Theme Name:        custom theme 2
+ * Theme URI:         https:/rahul.com
+ * Description:       Custom theme description
+ * Version:           1.0.0
+ * Author:            Rahul Bisht
+ * Author URI:        https://bisht.com
+ */
+
+
+
+ .custom-style{
+    padding:20px;
+    margin-bottom:30px; 
+    box-shadow: rgba(14, 63, 126, 0.06) 0px 0px 0px 1px, rgba(42, 51, 70, 0.03) 0px 1px 1px -0.5px, rgba(42, 51, 70, 0.04) 0px 2px 2px -1px, rgba(42, 51, 70, 0.04) 0px 3px 3px -1.5px, rgba(42, 51, 70, 0.03) 0px 5px 5px -2.5px, rgba(42, 51, 70, 0.03) 0px 10px 10px -5px, rgba(42, 51, 70, 0.03) 0px 24px 24px -8px;
+ }
+
+ .search-form{
+   padding:20px;
+   background-color: bisque;
+
+ }
+
+ .search-form form{
+   display: flex;
+   flex-direction: column;
+   gap:6px;
+   align-items: center;
+   text-decoration: none;
+ }
