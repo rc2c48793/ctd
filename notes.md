@@ -183,6 +183,10 @@ add_action("hook_name", "method_name");
 - the_post() moves to that post and sets it as the current post.
 - Then: the_title();
   means: Give me the title of the current post.
+- Note : (WordPress alternative syntax - to make it visually reading otherwise same syntax as normal)
+: = start the block
+endwhile; = end the while block
+endif; = end the if block
 
 # v07 (enable menu option in admin panel and show it on frontend)
 
