@@ -179,6 +179,10 @@ add_action("hook_name", "method_name");
     the_title() = page title fetch or echo get_the_title()
     the_content() = page content or echo get_the_content()
     the_permalink() = page link or echo get_the_permalink()
+- have_posts() checks whether a post exists.
+- the_post() moves to that post and sets it as the current post.
+- Then: the_title();
+  means: Give me the title of the current post.
 
 # v07 (enable menu option in admin panel and show it on frontend)
 
