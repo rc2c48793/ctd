@@ -385,7 +385,7 @@ add_theme_support("post-formats", array("aside", "gallery", "link"));
 
 - note : by default , post has standard post format type.
 
-# v16 
+# v16 (/custom-theme-2/template-parts/content.php)
 
 - Summary : show post meta data like date, author, category
 
